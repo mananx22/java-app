@@ -1,0 +1,23 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "gradle",
+			"id": "/home/manan/Experiment/java-appassemblejava-app",
+			"script": "assemble",
+			"description": "Assembles the outputs of this project.",
+			"group": "build",
+			"project": "java-app",
+			"buildFile": "/home/manan/Experiment/java-app/build.gradle",
+			"rootProject": "java-app",
+			"projectFolder": "/home/manan/Experiment/java-app",
+			"workspaceFolder": "/home/manan/Experiment/java-app",
+			"args": "",
+			"javaDebug": false,
+			"problemMatcher": [
+				"$gradle"
+			],
+			"label": "gradle: assemble"
+		}
+	]
+}
